@@ -1,7 +1,7 @@
 #                Hi 👋, I'm Ghulam Murtaza
-<br>
+
 ### BS Computer Science Student | Aspiring Data Analyst & Web Developer
-<br>
+
 ---
 
 ### 🧑🏻‍💻 About Me
