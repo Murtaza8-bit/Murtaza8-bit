@@ -29,7 +29,6 @@ I’m a passionate CS student focused on building intelligent web applications a
 
 - 🎮 **[FruitMatch Memory Game](https://github.com/Murtaza8-bit/FruitMatch-Memory-Game)**: An interactive 3D card-flip game with custom sound effects.
 - 📈 **[Crypto Price Predictor](https://github.com/Murtaza8-bit/Crypto-Price-Predictor)**: Python-based prediction for top cryptocurrencies.
-- 🍎 **Nutrifact**: A Smart Recipe & Nutrition Portal built for Web Engineering.
 
 ---
 
