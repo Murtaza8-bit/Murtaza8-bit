@@ -1,12 +1,11 @@
 <div align="center">
   <br>
   <h1>Hi 👋, I'm Ghulam Murtaza</h1>
+  <h3>BS Computer Science Student | Aspiring Data Analyst & Web Developer</h3>
   <br>
+  
+  ---
 </div>
-
-### BS Computer Science Student | Aspiring Data Analyst & Web Developer
-
----
 
 ### 🧑🏻‍💻 About Me
 
