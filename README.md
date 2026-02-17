@@ -1,8 +1,16 @@
-# Hi 👋, I'm Ghulam Murtaza
+#                Hi 👋, I'm Ghulam Murtaza
 
 ### BS Computer Science Student | Aspiring Data Analyst & Web Developer
 
+---
+
+### 🧑🏻‍💻 About Me
+
 I’m a passionate CS student focused on building intelligent web applications and data-driven solutions. I love turning complex logic into simple, interactive experiences.
+
+---
+
+### 🚀 What I'm Working On 
 
 - 🎓 Currently pursuing my Bachelor's in Computer Science.
 - 🛠️ Specializing in **JavaScript** (Frontend) and **Python** (Data Science/AI).
