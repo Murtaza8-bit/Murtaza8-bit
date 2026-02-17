@@ -1,4 +1,8 @@
-#                Hi 👋, I'm Ghulam Murtaza
+<div align="center">
+  <br>
+  <h1>Hi 👋, I'm Ghulam Murtaza</h1>
+  <br>
+</div>
 
 ### BS Computer Science Student | Aspiring Data Analyst & Web Developer
 
