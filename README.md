@@ -42,7 +42,7 @@ I’m a Computer Science student passionate about **learning new technologies** 
 
 All my certifications and achievements are available here:
 
-[![Certifications Portfolio](https://img.shields.io/badge/Certifications_Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](your-link)
+[![Certifications Portfolio](https://img.shields.io/badge/Certifications_Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://murtaza8-bit.notion.site/Certificates-Achievements-30a8fb092de080ef9562fcc555536e06)
 
 ---
 
