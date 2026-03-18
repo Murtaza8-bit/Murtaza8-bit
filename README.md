@@ -33,8 +33,8 @@ I’m a Computer Science student passionate about **learning new technologies** 
 
 ### 📂 Featured Projects
 
-- 🎮 **[FruitMatch Memory Game](https://github.com/Murtaza8-bit/FruitMatch-Memory-Game)**: An interactive 3D card-flip game with custom sound effects.
-- 📈 **[Crypto Price Predictor](https://github.com/Murtaza8-bit/Crypto-Price-Predictor)**: Python-based prediction for top cryptocurrencies.
+- 🎮 **[FruitMatch Memory Game](https://github.com/Murtaza8-bit/FruitMatch-Memory-Game)**: An interactive 3D card-flip game with custom sound effects
+- 📈 **[Crypto Price Predictor](https://github.com/Murtaza8-bit/Crypto-Price-Predictor)**: Python-based prediction for top cryptocurrencies
 
 ---
 
@@ -42,7 +42,7 @@ I’m a Computer Science student passionate about **learning new technologies** 
 
 All my certifications and achievements are available here:
 
-[![Certifications Portfolio](https://img.shields.io/badge/Certifications_Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://murtaza8-bit.notion.site/Certificates-Achievements-30a8fb092de080ef9562fcc555536e06)
+[![Certifications Portfolio](https://img.shields.io/badge/Certifications_Portfolio--000000?style=for-the-badge&logo=notion&logoColor=white)](https://murtaza8-bit.notion.site/Certificates-Achievements-30a8fb092de080ef9562fcc555536e06)
 
 ---
 
