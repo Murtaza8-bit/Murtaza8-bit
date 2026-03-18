@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <h1>Hi 👋, I'm Ghulam Murtaza</h1>
-  <h3>BS Computer Science Student | Aspiring Data Analyst & Web Developer</h3>
+  <h3>BS Computer Science Student | Exploring Programming & Technology</h3>
   <br>
   
   ---
@@ -9,30 +9,29 @@
 
 ### 🧑🏻‍💻 About Me
 
-I’m a passionate CS student focused on building intelligent web applications and data-driven solutions. I love turning complex logic into simple, interactive experiences.
+I’m a Computer Science student passionate about **learning new technologies** and **building projects**. I enjoy turning ideas into practical, working solutions
 
 ---
 
 ### 🚀 What I'm Working On 
 
-- 🎓 Currently pursuing my Bachelor's in Computer Science.
-- 🛠️ Specializing in **JavaScript** (Frontend) and **Python** (Data Science/AI).
-- 🏆 Google Certified Professional in **Data Analytics** and **Digital Marketing**.
-- 🚀 Working on enhancing my **Prolog** logic and **Blockchain** development skills.
+- 🎓 Pursuing my Bachelor's in Computer Science
+- 🛠️ Learning and improving skills in Python, JavaScript, HTML, CSS and React
+- 🏆 Exploring certifications and practical projects to enhance my knowledge
+- 🚀 Experimenting with areas like AI, web development, and blockchain
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Skills & Interests
 
-**Development:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/Blockchain-3F51B5?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge)
 
-**Data & Logic:**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ---
 
@@ -44,4 +43,5 @@ I’m a passionate CS student focused on building intelligent web applications a
 ---
 
 ### 📫 Let's Connect!
-[Notion Portfolio](https://murtaza8-bit.notion.site/Certificates-Achievements-30a8fb092de080ef9562fcc555536e06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923103392998) 
