@@ -16,9 +16,9 @@ I’m a Computer Science student passionate about **learning new technologies** 
 ### 🚀 What I'm Working On 
 
 - 🎓 Pursuing my Bachelor's in Computer Science
-- 🛠️ Learning and improving skills in Python, JavaScript, HTML, CSS and React
-- 🏆 Exploring certifications and practical projects to enhance my knowledge
-- 🚀 Experimenting with areas like AI, web development, and blockchain
+- 🛠️ Learning Python, JavaScript, HTML, CSS and React
+- 🏆 Exploring certifications and hands-on projects to improve my skills
+- 🚀 Experimenting with AI, web development, blockchain and cybersecurity
 
 ---
 
@@ -28,10 +28,6 @@ I’m a Computer Science student passionate about **learning new technologies** 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge)
-![Blockchain](https://img.shields.io/badge/Blockchain-3F51B5?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge)
-
 
 ---
 
@@ -42,6 +38,15 @@ I’m a Computer Science student passionate about **learning new technologies** 
 
 ---
 
+### 📜 Certifications
+
+All my certifications and achievements are available here:
+
+[![Certifications Portfolio](https://img.shields.io/badge/Certifications_Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](your-link)
+
+---
+
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gm08823@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923103392998) 
