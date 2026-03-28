@@ -46,7 +46,7 @@ All my certifications are available here:
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect!.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gm08823@gmail.com)
